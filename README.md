@@ -1,4 +1,4 @@
-# Hi, I’m Jeff Lu
+# Hi, I’m Jeff Lu :)
 
 [![Visit my website](https://img.shields.io/badge/Website-Visit-2563eb?style=flat-square)](https://jeff-lu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeff_Lu-0A66C2?style=flat-square)](https://www.linkedin.com/in/junfeng-jeff-lu/)
